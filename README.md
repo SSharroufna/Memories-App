@@ -1,5 +1,5 @@
 
-## Note: This projects is still in progress. The expected finish date is Oct 8. 
+## Note: This projects is still in progress, the expected finish date is Oct 8. 
 
 
 # App Overview
