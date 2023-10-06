@@ -6,6 +6,8 @@
 
 The App built using React, Node.js, Express & MongoDB. From it's name "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives and share it with others. 
 
+![https://github.com/SSharroufna/Memories-App/blob/main/app.png]
+
 ## Technologies Used 
 
 •	Excessive use of Node JS, Express JS, MongoDB, and Mongoose, the complete MERN Stack to provide OAuth, and RESTful API for the back end.
