@@ -1,10 +1,6 @@
-
-## Note: This projects is still in progress, the expected finish date is Oct 8. 
-
-
 # App Overview
 
-The App built using React, Node.js, Express & MongoDB. From it's name "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives and share it with others. 
+From it's name "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives and share it with others. The user must sign up/sign in to post a new memory or edit an exsiting one. 
 
 ![app.png](https://github.com/SSharroufna/Memories-App/blob/main/app.png)
 
