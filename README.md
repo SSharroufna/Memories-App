@@ -14,6 +14,8 @@ From it's name "Memories" and it is a simple social media app that allows users 
 
 •	Developed certain features of the application functionality i.e., CRUD (Create, Read, Update, Delete) features using Require.js and Responsive Design.
 
+Note: This projects is still in progress, the expected finish date is Oct 8.
+
 
 
 
